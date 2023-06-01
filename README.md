@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <p align="center">
-<a href="1578880993@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-MathBeWithCode@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="1578880993@qq.com"><img alt="Email" src="1578880993@qq.com"></a>
 </p>
 
 <table width="100%"> 
