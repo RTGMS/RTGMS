@@ -1,7 +1,3 @@
-<p align="center">
-<a href="1578880993@qq.com"><img alt="Email" src="1578880993@qq.com"></a>
-</p>
-
 <table width="100%"> 
   <tr>
     <td width="40%">
